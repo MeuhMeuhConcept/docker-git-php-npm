@@ -7,6 +7,7 @@ RUN apk update && \
         curl \
         curl-dev \
         nodejs-npm \
+        yarn \
         php7 \
         php7-bcmath \
         php7-dom \
