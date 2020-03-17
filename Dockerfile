@@ -1,4 +1,4 @@
-FROM docker:18.06-git
+FROM docker:19.03-git
 
 MAINTAINER jn.germon@gmail.com
 
